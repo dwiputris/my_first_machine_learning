@@ -1,5 +1,5 @@
 # my_first_machine_learning
-In this project, the best model is searched to predict a subscription plan for a telco's customers. 
+In this project, model is built to predict a subscription plan for a telco's customers. 
 The telco, Megaline, is looking for a potential in increse revenue by appealing more customers to its more premium package, called Ultra.
 Given a dataset of its current subscribers on their monthly calls, messages, and internet data use, a machine learning is built to classify if a user shall subscribe for Ultra or not.
 Three algorithms are tried in this project:
